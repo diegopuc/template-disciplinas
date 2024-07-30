@@ -1,2 +1,3 @@
-# template-disciplinas
-Template para ser utilizado no Classroom.
+# Template para Disciplina
+
+
